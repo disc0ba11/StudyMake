@@ -1,2 +1,1 @@
-Simple project for study makefiles
-==================================
+literally random phrase to change readme.md
